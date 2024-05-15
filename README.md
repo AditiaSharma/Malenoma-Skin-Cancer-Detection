@@ -1,14 +1,14 @@
-Melanoma Cancer Detection Using CNN
+#Melanoma Cancer Detection Using CNN
 > We are usiung multiclass classification model using a custom convolutional neural network in TensorFlow. In the past 10-year period, from 2008 to 2018,
 > the annual number of melanoma cases has increased by 53%, partly due to increased UV exposure.
 > Although melanoma is one of the most lethal types of skin cancer, a fast diagnosis can lead to a very high chance of survival.
 
 
 ## Table of Contents
-* [General Info]
-* [Technologies Used]
-* [Conclusions]
-* [Acknowledgements]
+* General Info
+* Technologies Used
+* Conclusions
+* Acknowledgements
 
 
 ## General Information
@@ -24,11 +24,11 @@ melanomas and moles, whose images are slightly dominant.
 
 ## Technologies Used
 - TensorFlow version: 2.15.0
-Keras version: 2.15.0
-Pandas version: 2.0.3
-Augmentor version: 0.2.12
-NumPy version: 1.24.3
-Glob
+-Keras version: 2.15.0
+-Pandas version: 2.0.3
+-Augmentor version: 0.2.12
+-NumPy version: 1.24.3
+-Glob
 
 
 ## Acknowledgements
@@ -36,6 +36,6 @@ Glob
 
 
 ## Contact
-Created by https://www.linkedin.com/in/aditiasharma/ - feel free to contact me!
+-Created by https://www.linkedin.com/in/aditiasharma/ - feel free to contact me!
 
 
